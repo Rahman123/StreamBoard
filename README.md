@@ -32,9 +32,10 @@ In case of errors/bugs, please create a [GitHub issue](https://github.com/Salesf
 * Alex Hoang
 * Josh Honeycutt
 * Joshua Lerma
+* John McWilliams
 * Hank Scurry
 * Adam Stroupe
-* John McWilliams
+
 
 ## License
 
