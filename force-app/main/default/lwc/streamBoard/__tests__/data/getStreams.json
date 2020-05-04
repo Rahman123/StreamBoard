@@ -1,0 +1,1638 @@
+[{
+    "feedElementsList": [{
+            "actor": {
+                "additionalLabel": null,
+                "communityNickname": "test-yuyowjqb6ypa",
+                "companyName": "JA Streamboard Scratch Org",
+                "displayName": "User User",
+                "firstName": "User",
+                "id": "0058A000004265DQAQ",
+                "isActive": true,
+                "isInThisCommunity": true,
+                "lastName": "User",
+                "motif": {
+                    "color": "65CAE4",
+                    "largeIconUrl": "/img/icon/profile64.png",
+                    "mediumIconUrl": "/img/icon/profile32.png",
+                    "smallIconUrl": "/img/icon/profile16.png",
+                    "svgIconUrl": null
+                },
+                "mySubscription": null,
+                "name": "User User",
+                "outOfOffice": {
+                    "message": ""
+                },
+                "photo": {
+                    "fullEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                    "largePhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/F",
+                    "mediumPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/M",
+                    "photoVersionId": null,
+                    "smallPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+                    "standardEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                    "url": "/services/data/v48.0/connect/user-profiles/0058A000004265DQAQ/photo"
+                },
+                "reputation": null,
+                "title": null,
+                "type": "User",
+                "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ",
+                "userType": "Internal"
+            },
+            "body": {
+                "isRichText": true,
+                "messageSegments": [{
+                        "altText": null,
+                        "htmlTag": "b",
+                        "markupType": "Bold",
+                        "text": "",
+                        "type": "MarkupBegin",
+                        "url": null
+                    },
+                    {
+                        "text": "This text is RICH. I can hardly have another bite ",
+                        "type": "Text"
+                    },
+                    {
+                        "htmlTag": "b",
+                        "markupType": "Bold",
+                        "text": "",
+                        "type": "MarkupEnd"
+                    },
+                    {
+                        "accessible": true,
+                        "name": "User User",
+                        "record": {
+                            "additionalLabel": null,
+                            "communityNickname": "test-yuyowjqb6ypa",
+                            "companyName": "JA Streamboard Scratch Org",
+                            "displayName": "User User",
+                            "firstName": "User",
+                            "id": "0058A000004265DQAQ",
+                            "isActive": true,
+                            "isInThisCommunity": true,
+                            "lastName": "User",
+                            "motif": {
+                                "color": "65CAE4",
+                                "largeIconUrl": "/img/icon/profile64.png",
+                                "mediumIconUrl": "/img/icon/profile32.png",
+                                "smallIconUrl": "/img/icon/profile16.png",
+                                "svgIconUrl": null
+                            },
+                            "mySubscription": null,
+                            "name": "User User",
+                            "outOfOffice": {
+                                "message": ""
+                            },
+                            "photo": {
+                                "fullEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                                "largePhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/F",
+                                "mediumPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/M",
+                                "photoVersionId": null,
+                                "smallPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+                                "standardEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                                "url": "/services/data/v48.0/connect/user-profiles/0058A000004265DQAQ/photo"
+                            },
+                            "reputation": null,
+                            "title": null,
+                            "type": "User",
+                            "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ",
+                            "userType": "Internal"
+                        },
+                        "text": "@User User",
+                        "type": "Mention"
+                    }
+                ],
+                "text": "This text is RICH. I can hardly have another bite @User User"
+            },
+            "capabilities": {
+                "associatedActions": {
+                    "platformActionGroups": []
+                },
+                "bookmarks": {
+                    "isBookmarkedByCurrentUser": false
+                },
+                "chatterLikes": {
+                    "isLikedByCurrentUser": false,
+                    "likesMessage": null,
+                    "myLike": null,
+                    "page": {
+                        "currentPageToken": 0,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4wSAF/capabilities/chatter-likes/items",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "close": {
+                    "canContextUserUpdateIsClosed": true,
+                    "isClosed": false
+                },
+                "comments": {
+                    "page": {
+                        "currentPageToken": null,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4wSAF/capabilities/comments/items",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "edit": {
+                    "isEditRestricted": false,
+                    "isEditableByMeUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4wSAF/capabilities/edit/is-editable-by-me",
+                    "lastEditedBy": null,
+                    "lastEditedDate": null,
+                    "latestRevision": 1,
+                    "relativeLastEditedDate": null
+                },
+                "interactions": {
+                    "count": 0
+                },
+                "mute": {
+                    "isMutedByMe": null
+                },
+                "readBy": {
+                    "isReadByMe": true,
+                    "lastReadDateByMe": "2020-04-24T01:38:38.000Z",
+                    "page": {
+                        "currentPageToken": null,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4wSAF/capabilities/read-by/items?pageSize=3",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "status": {
+                    "feedEntityStatus": "Published",
+                    "isApprovableByMe": true
+                },
+                "topics": {
+                    "canAssignTopics": true,
+                    "items": []
+                },
+                "upDownVote": {
+                    "downVoteCount": 0,
+                    "myVote": "None",
+                    "upVoteCount": 0
+                }
+            },
+            "clientInfo": {
+                "applicationName": "Salesforce CLI",
+                "applicationUrl": "https://developer.salesforce.com/tools/sfdxcli"
+            },
+            "createdDate": "2020-04-24T01:38:38.000Z",
+            "event": false,
+            "feedElementType": "FeedItem",
+            "hasVerifiedComment": false,
+            "header": {
+                "isRichText": null,
+                "messageSegments": [{
+                        "motif": {
+                            "color": "7F8DE1",
+                            "largeIconUrl": "/img/icon/accounts64.png",
+                            "mediumIconUrl": "/img/icon/accounts32.png",
+                            "smallIconUrl": "/img/icon/accounts16.png",
+                            "svgIconUrl": null
+                        },
+                        "reference": {
+                            "id": "0018A00000SW5JnQAL",
+                            "url": "/services/data/v48.0/chatter/records/0018A00000SW5JnQAL"
+                        },
+                        "text": "Burlington Textiles Corp of America",
+                        "type": "EntityLink"
+                    },
+                    {
+                        "text": " — ",
+                        "type": "Text"
+                    },
+                    {
+                        "motif": {
+                            "color": "65CAE4",
+                            "largeIconUrl": "/img/icon/profile64.png",
+                            "mediumIconUrl": "/img/icon/profile32.png",
+                            "smallIconUrl": "/img/icon/profile16.png",
+                            "svgIconUrl": null
+                        },
+                        "reference": {
+                            "id": "0058A000004265DQAQ",
+                            "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ"
+                        },
+                        "text": "User User",
+                        "type": "EntityLink"
+                    }
+                ],
+                "text": "Burlington Textiles Corp of America — User User"
+            },
+            "id": "0D58A00000NyM4wSAF",
+            "isDeleteRestricted": false,
+            "isSharable": false,
+            "modifiedDate": "2020-04-24T01:38:38.000Z",
+            "originalFeedItem": null,
+            "originalFeedItemActor": null,
+            "parent": {
+                "entityLabel": {
+                    "label": "Account",
+                    "labelPlural": "Accounts"
+                },
+                "id": "0018A00000SW5JnQAL",
+                "motif": {
+                    "color": "7F8DE1",
+                    "largeIconUrl": "/img/icon/accounts64.png",
+                    "mediumIconUrl": "/img/icon/accounts32.png",
+                    "smallIconUrl": "/img/icon/accounts16.png",
+                    "svgIconUrl": null
+                },
+                "mySubscription": null,
+                "name": "Burlington Textiles Corp of America",
+                "type": "Account",
+                "url": "/services/data/v48.0/chatter/records/0018A00000SW5JnQAL"
+            },
+            "photoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+            "relativeCreatedDate": "3h ago",
+            "type": "TextPost",
+            "url": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4wSAF",
+            "visibility": "InternalUsers"
+        },
+        {
+            "actor": {
+                "additionalLabel": null,
+                "communityNickname": "test-yuyowjqb6ypa",
+                "companyName": "JA Streamboard Scratch Org",
+                "displayName": "User User",
+                "firstName": "User",
+                "id": "0058A000004265DQAQ",
+                "isActive": true,
+                "isInThisCommunity": true,
+                "lastName": "User",
+                "motif": {
+                    "color": "65CAE4",
+                    "largeIconUrl": "/img/icon/profile64.png",
+                    "mediumIconUrl": "/img/icon/profile32.png",
+                    "smallIconUrl": "/img/icon/profile16.png",
+                    "svgIconUrl": null
+                },
+                "mySubscription": null,
+                "name": "User User",
+                "outOfOffice": {
+                    "message": ""
+                },
+                "photo": {
+                    "fullEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                    "largePhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/F",
+                    "mediumPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/M",
+                    "photoVersionId": null,
+                    "smallPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+                    "standardEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                    "url": "/services/data/v48.0/connect/user-profiles/0058A000004265DQAQ/photo"
+                },
+                "reputation": null,
+                "title": null,
+                "type": "User",
+                "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ",
+                "userType": "Internal"
+            },
+            "body": {
+                "isRichText": true,
+                "messageSegments": [{
+                        "altText": null,
+                        "htmlTag": "code",
+                        "markupType": "Code",
+                        "text": "[Start code block]\n",
+                        "type": "MarkupBegin",
+                        "url": null
+                    },
+                    {
+                        "text": "&lt;html&gt;\n\t&lt;body&gt;\n\t\tHello, world!\n\t&lt;/body&gt;\n&lt;/html&gt;",
+                        "type": "Text"
+                    },
+                    {
+                        "htmlTag": "code",
+                        "markupType": "Code",
+                        "text": "\n[End code block]",
+                        "type": "MarkupEnd"
+                    }
+                ],
+                "text": "[Start code block]\n&lt;html&gt;\n\t&lt;body&gt;\n\t\tHello, world!\n\t&lt;/body&gt;\n&lt;/html&gt;\n[End code block]"
+            },
+            "capabilities": {
+                "associatedActions": {
+                    "platformActionGroups": []
+                },
+                "bookmarks": {
+                    "isBookmarkedByCurrentUser": false
+                },
+                "chatterLikes": {
+                    "isLikedByCurrentUser": false,
+                    "likesMessage": null,
+                    "myLike": null,
+                    "page": {
+                        "currentPageToken": 0,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4vSAF/capabilities/chatter-likes/items",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "close": {
+                    "canContextUserUpdateIsClosed": true,
+                    "isClosed": false
+                },
+                "comments": {
+                    "page": {
+                        "currentPageToken": null,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4vSAF/capabilities/comments/items",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "edit": {
+                    "isEditRestricted": false,
+                    "isEditableByMeUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4vSAF/capabilities/edit/is-editable-by-me",
+                    "lastEditedBy": null,
+                    "lastEditedDate": null,
+                    "latestRevision": 1,
+                    "relativeLastEditedDate": null
+                },
+                "interactions": {
+                    "count": 0
+                },
+                "mute": {
+                    "isMutedByMe": null
+                },
+                "readBy": {
+                    "isReadByMe": true,
+                    "lastReadDateByMe": "2020-04-24T01:38:38.000Z",
+                    "page": {
+                        "currentPageToken": null,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4vSAF/capabilities/read-by/items?pageSize=3",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "status": {
+                    "feedEntityStatus": "Published",
+                    "isApprovableByMe": true
+                },
+                "topics": {
+                    "canAssignTopics": true,
+                    "items": []
+                },
+                "upDownVote": {
+                    "downVoteCount": 0,
+                    "myVote": "None",
+                    "upVoteCount": 0
+                }
+            },
+            "clientInfo": {
+                "applicationName": "Salesforce CLI",
+                "applicationUrl": "https://developer.salesforce.com/tools/sfdxcli"
+            },
+            "createdDate": "2020-04-24T01:38:38.000Z",
+            "event": false,
+            "feedElementType": "FeedItem",
+            "hasVerifiedComment": false,
+            "header": {
+                "isRichText": null,
+                "messageSegments": [{
+                        "motif": {
+                            "color": "7F8DE1",
+                            "largeIconUrl": "/img/icon/accounts64.png",
+                            "mediumIconUrl": "/img/icon/accounts32.png",
+                            "smallIconUrl": "/img/icon/accounts16.png",
+                            "svgIconUrl": null
+                        },
+                        "reference": {
+                            "id": "0018A00000SW5JnQAL",
+                            "url": "/services/data/v48.0/chatter/records/0018A00000SW5JnQAL"
+                        },
+                        "text": "Burlington Textiles Corp of America",
+                        "type": "EntityLink"
+                    },
+                    {
+                        "text": " — ",
+                        "type": "Text"
+                    },
+                    {
+                        "motif": {
+                            "color": "65CAE4",
+                            "largeIconUrl": "/img/icon/profile64.png",
+                            "mediumIconUrl": "/img/icon/profile32.png",
+                            "smallIconUrl": "/img/icon/profile16.png",
+                            "svgIconUrl": null
+                        },
+                        "reference": {
+                            "id": "0058A000004265DQAQ",
+                            "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ"
+                        },
+                        "text": "User User",
+                        "type": "EntityLink"
+                    }
+                ],
+                "text": "Burlington Textiles Corp of America — User User"
+            },
+            "id": "0D58A00000NyM4vSAF",
+            "isDeleteRestricted": false,
+            "isSharable": false,
+            "modifiedDate": "2020-04-24T01:38:38.000Z",
+            "originalFeedItem": null,
+            "originalFeedItemActor": null,
+            "parent": {
+                "entityLabel": {
+                    "label": "Account",
+                    "labelPlural": "Accounts"
+                },
+                "id": "0018A00000SW5JnQAL",
+                "motif": {
+                    "color": "7F8DE1",
+                    "largeIconUrl": "/img/icon/accounts64.png",
+                    "mediumIconUrl": "/img/icon/accounts32.png",
+                    "smallIconUrl": "/img/icon/accounts16.png",
+                    "svgIconUrl": null
+                },
+                "mySubscription": null,
+                "name": "Burlington Textiles Corp of America",
+                "type": "Account",
+                "url": "/services/data/v48.0/chatter/records/0018A00000SW5JnQAL"
+            },
+            "photoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+            "relativeCreatedDate": "3h ago",
+            "type": "TextPost",
+            "url": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4vSAF",
+            "visibility": "InternalUsers"
+        }
+    ],
+    "id": "0Fq8A00000001s4SAA",
+    "message": "Stream Feed Elements are loaded",
+    "name": "Accounts",
+    "success": true,
+    "totalRecords": 0
+},
+{
+    "feedElementsList": [{
+            "actor": {
+                "additionalLabel": null,
+                "communityNickname": "test-yuyowjqb6ypa",
+                "companyName": "JA Streamboard Scratch Org",
+                "displayName": "User User",
+                "firstName": "User",
+                "id": "0058A000004265DQAQ",
+                "isActive": true,
+                "isInThisCommunity": true,
+                "lastName": "User",
+                "motif": {
+                    "color": "65CAE4",
+                    "largeIconUrl": "/img/icon/profile64.png",
+                    "mediumIconUrl": "/img/icon/profile32.png",
+                    "smallIconUrl": "/img/icon/profile16.png",
+                    "svgIconUrl": null
+                },
+                "mySubscription": null,
+                "name": "User User",
+                "outOfOffice": {
+                    "message": ""
+                },
+                "photo": {
+                    "fullEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                    "largePhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/F",
+                    "mediumPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/M",
+                    "photoVersionId": null,
+                    "smallPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+                    "standardEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                    "url": "/services/data/v48.0/connect/user-profiles/0058A000004265DQAQ/photo"
+                },
+                "reputation": null,
+                "title": null,
+                "type": "User",
+                "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ",
+                "userType": "Internal"
+            },
+            "body": {
+                "isRichText": false,
+                "messageSegments": [{
+                    "text": "What is the best Video Game?",
+                    "type": "Text"
+                }],
+                "text": "What is the best Video Game?"
+            },
+            "capabilities": {
+                "associatedActions": {
+                    "platformActionGroups": []
+                },
+                "bookmarks": {
+                    "isBookmarkedByCurrentUser": false
+                },
+                "chatterLikes": {
+                    "isLikedByCurrentUser": false,
+                    "likesMessage": null,
+                    "myLike": null,
+                    "page": {
+                        "currentPageToken": 0,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4sSAF/capabilities/chatter-likes/items",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "close": {
+                    "canContextUserUpdateIsClosed": true,
+                    "isClosed": false
+                },
+                "comments": {
+                    "page": {
+                        "currentPageToken": null,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4sSAF/capabilities/comments/items",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "edit": {
+                    "isEditRestricted": false,
+                    "isEditableByMeUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4sSAF/capabilities/edit/is-editable-by-me",
+                    "lastEditedBy": null,
+                    "lastEditedDate": null,
+                    "latestRevision": 1,
+                    "relativeLastEditedDate": null
+                },
+                "interactions": {
+                    "count": 0
+                },
+                "mute": {
+                    "isMutedByMe": null
+                },
+                "poll": {
+                    "choices": [{
+                            "id": "09A8A0000008Of3UAE",
+                            "position": 1,
+                            "text": "Breath of the Wild",
+                            "voteCount": 0,
+                            "voteCountRatio": 0
+                        },
+                        {
+                            "id": "09A8A0000008Of4UAE",
+                            "position": 2,
+                            "text": "BMXXX",
+                            "voteCount": 0,
+                            "voteCountRatio": 0
+                        },
+                        {
+                            "id": "09A8A0000008Of5UAE",
+                            "position": 3,
+                            "text": "Halo 420",
+                            "voteCount": 0,
+                            "voteCountRatio": 0
+                        }
+                    ],
+                    "myChoiceId": null,
+                    "totalVoteCount": 0
+                },
+                "readBy": {
+                    "isReadByMe": true,
+                    "lastReadDateByMe": "2020-04-24T01:38:37.000Z",
+                    "page": {
+                        "currentPageToken": null,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4sSAF/capabilities/read-by/items?pageSize=3",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "status": {
+                    "feedEntityStatus": "Published",
+                    "isApprovableByMe": true
+                },
+                "topics": {
+                    "canAssignTopics": true,
+                    "items": []
+                },
+                "upDownVote": {
+                    "downVoteCount": 0,
+                    "myVote": "None",
+                    "upVoteCount": 0
+                }
+            },
+            "clientInfo": {
+                "applicationName": "Salesforce CLI",
+                "applicationUrl": "https://developer.salesforce.com/tools/sfdxcli"
+            },
+            "createdDate": "2020-04-24T01:38:37.000Z",
+            "event": false,
+            "feedElementType": "FeedItem",
+            "hasVerifiedComment": false,
+            "header": {
+                "isRichText": null,
+                "messageSegments": [{
+                        "motif": {
+                            "color": "83B6FF",
+                            "largeIconUrl": "/img/icon/groups64.png",
+                            "mediumIconUrl": "/img/icon/groups32.png",
+                            "smallIconUrl": "/img/icon/groups16.png",
+                            "svgIconUrl": null
+                        },
+                        "reference": {
+                            "id": "0F98A00000053jKSAQ",
+                            "url": "/services/data/v48.0/chatter/groups/0F98A00000053jKSAQ"
+                        },
+                        "text": "Test Chatter Group Public",
+                        "type": "EntityLink"
+                    },
+                    {
+                        "text": " — ",
+                        "type": "Text"
+                    },
+                    {
+                        "motif": {
+                            "color": "65CAE4",
+                            "largeIconUrl": "/img/icon/profile64.png",
+                            "mediumIconUrl": "/img/icon/profile32.png",
+                            "smallIconUrl": "/img/icon/profile16.png",
+                            "svgIconUrl": null
+                        },
+                        "reference": {
+                            "id": "0058A000004265DQAQ",
+                            "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ"
+                        },
+                        "text": "User User",
+                        "type": "EntityLink"
+                    }
+                ],
+                "text": "Test Chatter Group Public — User User"
+            },
+            "id": "0D58A00000NyM4sSAF",
+            "isDeleteRestricted": false,
+            "isSharable": true,
+            "modifiedDate": "2020-04-24T01:38:37.000Z",
+            "originalFeedItem": null,
+            "originalFeedItemActor": null,
+            "parent": {
+                "additionalLabel": null,
+                "announcement": null,
+                "bannerPhoto": {
+                    "bannerPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/0F9/B",
+                    "bannerPhotoVersionId": null,
+                    "url": "/services/data/v48.0/chatter/groups/0F98A00000053jKSAQ/banner-photo"
+                },
+                "canHaveChatterGuests": false,
+                "community": null,
+                "description": null,
+                "emailToChatterAddress": "0F98A00000053jKSAQ@post.8a-blc2uak.cs45.chatter.sandbox.salesforce.com",
+                "id": "0F98A00000053jKSAQ",
+                "isArchived": false,
+                "isAutoArchiveDisabled": false,
+                "isBroadcast": false,
+                "lastFeedElementPostDate": "2020-04-24T01:38:36.000Z",
+                "memberCount": 1,
+                "motif": {
+                    "color": "83B6FF",
+                    "largeIconUrl": "/img/icon/groups64.png",
+                    "mediumIconUrl": "/img/icon/groups32.png",
+                    "smallIconUrl": "/img/icon/groups16.png",
+                    "svgIconUrl": null
+                },
+                "myRole": "GroupOwner",
+                "mySubscription": {
+                    "id": "0FB8A000000KwGvWAK",
+                    "url": "/services/data/v48.0/chatter/group-memberships/0FB8A000000KwGvWAK"
+                },
+                "name": "Test Chatter Group Public",
+                "owner": {
+                    "additionalLabel": null,
+                    "communityNickname": "test-yuyowjqb6ypa",
+                    "companyName": "JA Streamboard Scratch Org",
+                    "displayName": "User User",
+                    "firstName": "User",
+                    "id": "0058A000004265DQAQ",
+                    "isActive": true,
+                    "isInThisCommunity": true,
+                    "lastName": "User",
+                    "motif": {
+                        "color": "65CAE4",
+                        "largeIconUrl": "/img/icon/profile64.png",
+                        "mediumIconUrl": "/img/icon/profile32.png",
+                        "smallIconUrl": "/img/icon/profile16.png",
+                        "svgIconUrl": null
+                    },
+                    "mySubscription": null,
+                    "name": "User User",
+                    "outOfOffice": {
+                        "message": ""
+                    },
+                    "photo": {
+                        "fullEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                        "largePhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/F",
+                        "mediumPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/M",
+                        "photoVersionId": null,
+                        "smallPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+                        "standardEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                        "url": "/services/data/v48.0/connect/user-profiles/0058A000004265DQAQ/photo"
+                    },
+                    "reputation": null,
+                    "title": null,
+                    "type": "User",
+                    "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ",
+                    "userType": "Internal"
+                },
+                "photo": {
+                    "fullEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_group_profile_200_v2.png?fromEmail=1",
+                    "largePhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/0F9/F",
+                    "mediumPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/0F9/M",
+                    "photoVersionId": null,
+                    "smallPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/0F9/T",
+                    "standardEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_group_profile_45_v2.png?fromEmail=1",
+                    "url": "/services/data/v48.0/chatter/groups/0F98A00000053jKSAQ/photo"
+                },
+                "type": "CollaborationGroup",
+                "url": "/services/data/v48.0/chatter/groups/0F98A00000053jKSAQ",
+                "visibility": "PublicAccess"
+            },
+            "photoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+            "relativeCreatedDate": "3h ago",
+            "type": "PollPost",
+            "url": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4sSAF",
+            "visibility": "AllUsers"
+        },
+        {
+            "actor": {
+                "additionalLabel": null,
+                "communityNickname": "test-yuyowjqb6ypa",
+                "companyName": "JA Streamboard Scratch Org",
+                "displayName": "User User",
+                "firstName": "User",
+                "id": "0058A000004265DQAQ",
+                "isActive": true,
+                "isInThisCommunity": true,
+                "lastName": "User",
+                "motif": {
+                    "color": "65CAE4",
+                    "largeIconUrl": "/img/icon/profile64.png",
+                    "mediumIconUrl": "/img/icon/profile32.png",
+                    "smallIconUrl": "/img/icon/profile16.png",
+                    "svgIconUrl": null
+                },
+                "mySubscription": null,
+                "name": "User User",
+                "outOfOffice": {
+                    "message": ""
+                },
+                "photo": {
+                    "fullEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                    "largePhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/F",
+                    "mediumPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/M",
+                    "photoVersionId": null,
+                    "smallPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+                    "standardEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                    "url": "/services/data/v48.0/connect/user-profiles/0058A000004265DQAQ/photo"
+                },
+                "reputation": null,
+                "title": null,
+                "type": "User",
+                "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ",
+                "userType": "Internal"
+            },
+            "body": {
+                "isRichText": false,
+                "messageSegments": [{
+                    "text": "Test Post #1 for Test Chatter Group Public",
+                    "type": "Text"
+                }],
+                "text": "Test Post #1 for Test Chatter Group Public"
+            },
+            "capabilities": {
+                "associatedActions": {
+                    "platformActionGroups": []
+                },
+                "bookmarks": {
+                    "isBookmarkedByCurrentUser": false
+                },
+                "chatterLikes": {
+                    "isLikedByCurrentUser": false,
+                    "likesMessage": null,
+                    "myLike": null,
+                    "page": {
+                        "currentPageToken": 0,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4rSAF/capabilities/chatter-likes/items",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "close": {
+                    "canContextUserUpdateIsClosed": true,
+                    "isClosed": false
+                },
+                "comments": {
+                    "page": {
+                        "currentPageToken": null,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4rSAF/capabilities/comments/items",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "edit": {
+                    "isEditRestricted": false,
+                    "isEditableByMeUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4rSAF/capabilities/edit/is-editable-by-me",
+                    "lastEditedBy": null,
+                    "lastEditedDate": null,
+                    "latestRevision": 1,
+                    "relativeLastEditedDate": null
+                },
+                "interactions": {
+                    "count": 0
+                },
+                "mute": {
+                    "isMutedByMe": null
+                },
+                "readBy": {
+                    "isReadByMe": true,
+                    "lastReadDateByMe": "2020-04-24T01:38:37.000Z",
+                    "page": {
+                        "currentPageToken": null,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4rSAF/capabilities/read-by/items?pageSize=3",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "status": {
+                    "feedEntityStatus": "Published",
+                    "isApprovableByMe": true
+                },
+                "topics": {
+                    "canAssignTopics": true,
+                    "items": []
+                },
+                "upDownVote": {
+                    "downVoteCount": 0,
+                    "myVote": "None",
+                    "upVoteCount": 0
+                }
+            },
+            "clientInfo": {
+                "applicationName": "Salesforce CLI",
+                "applicationUrl": "https://developer.salesforce.com/tools/sfdxcli"
+            },
+            "createdDate": "2020-04-24T01:38:37.000Z",
+            "event": false,
+            "feedElementType": "FeedItem",
+            "hasVerifiedComment": false,
+            "header": {
+                "isRichText": null,
+                "messageSegments": [{
+                        "motif": {
+                            "color": "83B6FF",
+                            "largeIconUrl": "/img/icon/groups64.png",
+                            "mediumIconUrl": "/img/icon/groups32.png",
+                            "smallIconUrl": "/img/icon/groups16.png",
+                            "svgIconUrl": null
+                        },
+                        "reference": {
+                            "id": "0F98A00000053jKSAQ",
+                            "url": "/services/data/v48.0/chatter/groups/0F98A00000053jKSAQ"
+                        },
+                        "text": "Test Chatter Group Public",
+                        "type": "EntityLink"
+                    },
+                    {
+                        "text": " — ",
+                        "type": "Text"
+                    },
+                    {
+                        "motif": {
+                            "color": "65CAE4",
+                            "largeIconUrl": "/img/icon/profile64.png",
+                            "mediumIconUrl": "/img/icon/profile32.png",
+                            "smallIconUrl": "/img/icon/profile16.png",
+                            "svgIconUrl": null
+                        },
+                        "reference": {
+                            "id": "0058A000004265DQAQ",
+                            "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ"
+                        },
+                        "text": "User User",
+                        "type": "EntityLink"
+                    }
+                ],
+                "text": "Test Chatter Group Public — User User"
+            },
+            "id": "0D58A00000NyM4rSAF",
+            "isDeleteRestricted": false,
+            "isSharable": true,
+            "modifiedDate": "2020-04-24T01:38:37.000Z",
+            "originalFeedItem": null,
+            "originalFeedItemActor": null,
+            "parent": {
+                "additionalLabel": null,
+                "announcement": null,
+                "bannerPhoto": {
+                    "bannerPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/0F9/B",
+                    "bannerPhotoVersionId": null,
+                    "url": "/services/data/v48.0/chatter/groups/0F98A00000053jKSAQ/banner-photo"
+                },
+                "canHaveChatterGuests": false,
+                "community": null,
+                "description": null,
+                "emailToChatterAddress": "0F98A00000053jKSAQ@post.8a-blc2uak.cs45.chatter.sandbox.salesforce.com",
+                "id": "0F98A00000053jKSAQ",
+                "isArchived": false,
+                "isAutoArchiveDisabled": false,
+                "isBroadcast": false,
+                "lastFeedElementPostDate": "2020-04-24T01:38:36.000Z",
+                "memberCount": 1,
+                "motif": {
+                    "color": "83B6FF",
+                    "largeIconUrl": "/img/icon/groups64.png",
+                    "mediumIconUrl": "/img/icon/groups32.png",
+                    "smallIconUrl": "/img/icon/groups16.png",
+                    "svgIconUrl": null
+                },
+                "myRole": "GroupOwner",
+                "mySubscription": {
+                    "id": "0FB8A000000KwGvWAK",
+                    "url": "/services/data/v48.0/chatter/group-memberships/0FB8A000000KwGvWAK"
+                },
+                "name": "Test Chatter Group Public",
+                "owner": {
+                    "additionalLabel": null,
+                    "communityNickname": "test-yuyowjqb6ypa",
+                    "companyName": "JA Streamboard Scratch Org",
+                    "displayName": "User User",
+                    "firstName": "User",
+                    "id": "0058A000004265DQAQ",
+                    "isActive": true,
+                    "isInThisCommunity": true,
+                    "lastName": "User",
+                    "motif": {
+                        "color": "65CAE4",
+                        "largeIconUrl": "/img/icon/profile64.png",
+                        "mediumIconUrl": "/img/icon/profile32.png",
+                        "smallIconUrl": "/img/icon/profile16.png",
+                        "svgIconUrl": null
+                    },
+                    "mySubscription": null,
+                    "name": "User User",
+                    "outOfOffice": {
+                        "message": ""
+                    },
+                    "photo": {
+                        "fullEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                        "largePhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/F",
+                        "mediumPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/M",
+                        "photoVersionId": null,
+                        "smallPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+                        "standardEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                        "url": "/services/data/v48.0/connect/user-profiles/0058A000004265DQAQ/photo"
+                    },
+                    "reputation": null,
+                    "title": null,
+                    "type": "User",
+                    "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ",
+                    "userType": "Internal"
+                },
+                "photo": {
+                    "fullEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_group_profile_200_v2.png?fromEmail=1",
+                    "largePhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/0F9/F",
+                    "mediumPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/0F9/M",
+                    "photoVersionId": null,
+                    "smallPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/0F9/T",
+                    "standardEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_group_profile_45_v2.png?fromEmail=1",
+                    "url": "/services/data/v48.0/chatter/groups/0F98A00000053jKSAQ/photo"
+                },
+                "type": "CollaborationGroup",
+                "url": "/services/data/v48.0/chatter/groups/0F98A00000053jKSAQ",
+                "visibility": "PublicAccess"
+            },
+            "photoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+            "relativeCreatedDate": "3h ago",
+            "type": "TextPost",
+            "url": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4rSAF",
+            "visibility": "AllUsers"
+        }
+    ],
+    "id": "0Fq8A00000001s9SAA",
+    "message": "Stream Feed Elements are loaded",
+    "name": "Test Groups",
+    "success": true,
+    "totalRecords": 0
+},
+{
+    "feedElementsList": [{
+            "actor": {
+                "additionalLabel": null,
+                "communityNickname": "test-yuyowjqb6ypa",
+                "companyName": "JA Streamboard Scratch Org",
+                "displayName": "User User",
+                "firstName": "User",
+                "id": "0058A000004265DQAQ",
+                "isActive": true,
+                "isInThisCommunity": true,
+                "lastName": "User",
+                "motif": {
+                    "color": "65CAE4",
+                    "largeIconUrl": "/img/icon/profile64.png",
+                    "mediumIconUrl": "/img/icon/profile32.png",
+                    "smallIconUrl": "/img/icon/profile16.png",
+                    "svgIconUrl": null
+                },
+                "mySubscription": null,
+                "name": "User User",
+                "outOfOffice": {
+                    "message": ""
+                },
+                "photo": {
+                    "fullEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                    "largePhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/F",
+                    "mediumPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/M",
+                    "photoVersionId": null,
+                    "smallPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+                    "standardEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                    "url": "/services/data/v48.0/connect/user-profiles/0058A000004265DQAQ/photo"
+                },
+                "reputation": null,
+                "title": null,
+                "type": "User",
+                "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ",
+                "userType": "Internal"
+            },
+            "body": {
+                "isRichText": false,
+                "messageSegments": [{
+                        "text": "Test Post #2 for Test Chatter Group Private ",
+                        "type": "Text"
+                    },
+                    {
+                        "accessible": true,
+                        "name": "User User",
+                        "record": {
+                            "additionalLabel": null,
+                            "communityNickname": "test-yuyowjqb6ypa",
+                            "companyName": "JA Streamboard Scratch Org",
+                            "displayName": "User User",
+                            "firstName": "User",
+                            "id": "0058A000004265DQAQ",
+                            "isActive": true,
+                            "isInThisCommunity": true,
+                            "lastName": "User",
+                            "motif": {
+                                "color": "65CAE4",
+                                "largeIconUrl": "/img/icon/profile64.png",
+                                "mediumIconUrl": "/img/icon/profile32.png",
+                                "smallIconUrl": "/img/icon/profile16.png",
+                                "svgIconUrl": null
+                            },
+                            "mySubscription": null,
+                            "name": "User User",
+                            "outOfOffice": {
+                                "message": ""
+                            },
+                            "photo": {
+                                "fullEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                                "largePhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/F",
+                                "mediumPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/M",
+                                "photoVersionId": null,
+                                "smallPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+                                "standardEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                                "url": "/services/data/v48.0/connect/user-profiles/0058A000004265DQAQ/photo"
+                            },
+                            "reputation": null,
+                            "title": null,
+                            "type": "User",
+                            "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ",
+                            "userType": "Internal"
+                        },
+                        "text": "@User User",
+                        "type": "Mention"
+                    }
+                ],
+                "text": "Test Post #2 for Test Chatter Group Private @User User"
+            },
+            "capabilities": {
+                "associatedActions": {
+                    "platformActionGroups": []
+                },
+                "bookmarks": {
+                    "isBookmarkedByCurrentUser": false
+                },
+                "chatterLikes": {
+                    "isLikedByCurrentUser": false,
+                    "likesMessage": null,
+                    "myLike": null,
+                    "page": {
+                        "currentPageToken": 0,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4uSAF/capabilities/chatter-likes/items",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "close": {
+                    "canContextUserUpdateIsClosed": true,
+                    "isClosed": false
+                },
+                "comments": {
+                    "page": {
+                        "currentPageToken": null,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4uSAF/capabilities/comments/items",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "edit": {
+                    "isEditRestricted": false,
+                    "isEditableByMeUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4uSAF/capabilities/edit/is-editable-by-me",
+                    "lastEditedBy": null,
+                    "lastEditedDate": null,
+                    "latestRevision": 1,
+                    "relativeLastEditedDate": null
+                },
+                "interactions": {
+                    "count": 0
+                },
+                "mute": {
+                    "isMutedByMe": null
+                },
+                "readBy": {
+                    "isReadByMe": true,
+                    "lastReadDateByMe": "2020-04-24T01:38:37.000Z",
+                    "page": {
+                        "currentPageToken": null,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4uSAF/capabilities/read-by/items?pageSize=3",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "status": {
+                    "feedEntityStatus": "Published",
+                    "isApprovableByMe": true
+                },
+                "topics": {
+                    "canAssignTopics": true,
+                    "items": []
+                },
+                "upDownVote": {
+                    "downVoteCount": 0,
+                    "myVote": "None",
+                    "upVoteCount": 0
+                }
+            },
+            "clientInfo": {
+                "applicationName": "Salesforce CLI",
+                "applicationUrl": "https://developer.salesforce.com/tools/sfdxcli"
+            },
+            "createdDate": "2020-04-24T01:38:37.000Z",
+            "event": false,
+            "feedElementType": "FeedItem",
+            "hasVerifiedComment": false,
+            "header": {
+                "isRichText": null,
+                "messageSegments": [{
+                        "motif": {
+                            "color": "83B6FF",
+                            "largeIconUrl": "/img/icon/groups64.png",
+                            "mediumIconUrl": "/img/icon/groups32.png",
+                            "smallIconUrl": "/img/icon/groups16.png",
+                            "svgIconUrl": null
+                        },
+                        "reference": {
+                            "id": "0F98A00000053jLSAQ",
+                            "url": "/services/data/v48.0/chatter/groups/0F98A00000053jLSAQ"
+                        },
+                        "text": "Test Chatter Group Private",
+                        "type": "EntityLink"
+                    },
+                    {
+                        "text": " (Private) — ",
+                        "type": "Text"
+                    },
+                    {
+                        "motif": {
+                            "color": "65CAE4",
+                            "largeIconUrl": "/img/icon/profile64.png",
+                            "mediumIconUrl": "/img/icon/profile32.png",
+                            "smallIconUrl": "/img/icon/profile16.png",
+                            "svgIconUrl": null
+                        },
+                        "reference": {
+                            "id": "0058A000004265DQAQ",
+                            "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ"
+                        },
+                        "text": "User User",
+                        "type": "EntityLink"
+                    }
+                ],
+                "text": "Test Chatter Group Private (Private) — User User"
+            },
+            "id": "0D58A00000NyM4uSAF",
+            "isDeleteRestricted": false,
+            "isSharable": false,
+            "modifiedDate": "2020-04-24T01:38:37.000Z",
+            "originalFeedItem": null,
+            "originalFeedItemActor": null,
+            "parent": {
+                "additionalLabel": "Private",
+                "announcement": null,
+                "bannerPhoto": {
+                    "bannerPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/0F9/B",
+                    "bannerPhotoVersionId": null,
+                    "url": "/services/data/v48.0/chatter/groups/0F98A00000053jLSAQ/banner-photo"
+                },
+                "canHaveChatterGuests": false,
+                "community": null,
+                "description": null,
+                "emailToChatterAddress": "0F98A00000053jLSAQ@post.8a-blc2uak.cs45.chatter.sandbox.salesforce.com",
+                "id": "0F98A00000053jLSAQ",
+                "isArchived": false,
+                "isAutoArchiveDisabled": false,
+                "isBroadcast": false,
+                "lastFeedElementPostDate": "2020-04-24T01:38:37.000Z",
+                "memberCount": 1,
+                "motif": {
+                    "color": "83B6FF",
+                    "largeIconUrl": "/img/icon/groups64.png",
+                    "mediumIconUrl": "/img/icon/groups32.png",
+                    "smallIconUrl": "/img/icon/groups16.png",
+                    "svgIconUrl": null
+                },
+                "myRole": "GroupOwner",
+                "mySubscription": {
+                    "id": "0FB8A000000KwGwWAK",
+                    "url": "/services/data/v48.0/chatter/group-memberships/0FB8A000000KwGwWAK"
+                },
+                "name": "Test Chatter Group Private",
+                "owner": {
+                    "additionalLabel": null,
+                    "communityNickname": "test-yuyowjqb6ypa",
+                    "companyName": "JA Streamboard Scratch Org",
+                    "displayName": "User User",
+                    "firstName": "User",
+                    "id": "0058A000004265DQAQ",
+                    "isActive": true,
+                    "isInThisCommunity": true,
+                    "lastName": "User",
+                    "motif": {
+                        "color": "65CAE4",
+                        "largeIconUrl": "/img/icon/profile64.png",
+                        "mediumIconUrl": "/img/icon/profile32.png",
+                        "smallIconUrl": "/img/icon/profile16.png",
+                        "svgIconUrl": null
+                    },
+                    "mySubscription": null,
+                    "name": "User User",
+                    "outOfOffice": {
+                        "message": ""
+                    },
+                    "photo": {
+                        "fullEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                        "largePhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/F",
+                        "mediumPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/M",
+                        "photoVersionId": null,
+                        "smallPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+                        "standardEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                        "url": "/services/data/v48.0/connect/user-profiles/0058A000004265DQAQ/photo"
+                    },
+                    "reputation": null,
+                    "title": null,
+                    "type": "User",
+                    "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ",
+                    "userType": "Internal"
+                },
+                "photo": {
+                    "fullEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_group_profile_200_v2.png?fromEmail=1",
+                    "largePhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/0F9/F",
+                    "mediumPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/0F9/M",
+                    "photoVersionId": null,
+                    "smallPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/0F9/T",
+                    "standardEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_group_profile_45_v2.png?fromEmail=1",
+                    "url": "/services/data/v48.0/chatter/groups/0F98A00000053jLSAQ/photo"
+                },
+                "type": "CollaborationGroup",
+                "url": "/services/data/v48.0/chatter/groups/0F98A00000053jLSAQ",
+                "visibility": "PrivateAccess"
+            },
+            "photoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+            "relativeCreatedDate": "3h ago",
+            "type": "TextPost",
+            "url": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4uSAF",
+            "visibility": "AllUsers"
+        },
+        {
+            "actor": {
+                "additionalLabel": null,
+                "communityNickname": "test-yuyowjqb6ypa",
+                "companyName": "JA Streamboard Scratch Org",
+                "displayName": "User User",
+                "firstName": "User",
+                "id": "0058A000004265DQAQ",
+                "isActive": true,
+                "isInThisCommunity": true,
+                "lastName": "User",
+                "motif": {
+                    "color": "65CAE4",
+                    "largeIconUrl": "/img/icon/profile64.png",
+                    "mediumIconUrl": "/img/icon/profile32.png",
+                    "smallIconUrl": "/img/icon/profile16.png",
+                    "svgIconUrl": null
+                },
+                "mySubscription": null,
+                "name": "User User",
+                "outOfOffice": {
+                    "message": ""
+                },
+                "photo": {
+                    "fullEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                    "largePhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/F",
+                    "mediumPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/M",
+                    "photoVersionId": null,
+                    "smallPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+                    "standardEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                    "url": "/services/data/v48.0/connect/user-profiles/0058A000004265DQAQ/photo"
+                },
+                "reputation": null,
+                "title": null,
+                "type": "User",
+                "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ",
+                "userType": "Internal"
+            },
+            "body": {
+                "isRichText": false,
+                "messageSegments": [{
+                    "text": "Test Post #1 for Test Chatter Group Private /n [INSERT GIF]",
+                    "type": "Text"
+                }],
+                "text": "Test Post #1 for Test Chatter Group Private /n [INSERT GIF]"
+            },
+            "capabilities": {
+                "associatedActions": {
+                    "platformActionGroups": []
+                },
+                "bookmarks": {
+                    "isBookmarkedByCurrentUser": false
+                },
+                "chatterLikes": {
+                    "isLikedByCurrentUser": false,
+                    "likesMessage": null,
+                    "myLike": null,
+                    "page": {
+                        "currentPageToken": 0,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4tSAF/capabilities/chatter-likes/items",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "close": {
+                    "canContextUserUpdateIsClosed": true,
+                    "isClosed": false
+                },
+                "comments": {
+                    "page": {
+                        "currentPageToken": null,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4tSAF/capabilities/comments/items",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "edit": {
+                    "isEditRestricted": false,
+                    "isEditableByMeUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4tSAF/capabilities/edit/is-editable-by-me",
+                    "lastEditedBy": null,
+                    "lastEditedDate": null,
+                    "latestRevision": 1,
+                    "relativeLastEditedDate": null
+                },
+                "interactions": {
+                    "count": 0
+                },
+                "mute": {
+                    "isMutedByMe": null
+                },
+                "readBy": {
+                    "isReadByMe": true,
+                    "lastReadDateByMe": "2020-04-24T01:38:37.000Z",
+                    "page": {
+                        "currentPageToken": null,
+                        "currentPageUrl": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4tSAF/capabilities/read-by/items?pageSize=3",
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "status": {
+                    "feedEntityStatus": "Published",
+                    "isApprovableByMe": true
+                },
+                "topics": {
+                    "canAssignTopics": true,
+                    "items": []
+                },
+                "upDownVote": {
+                    "downVoteCount": 0,
+                    "myVote": "None",
+                    "upVoteCount": 0
+                }
+            },
+            "clientInfo": {
+                "applicationName": "Salesforce CLI",
+                "applicationUrl": "https://developer.salesforce.com/tools/sfdxcli"
+            },
+            "createdDate": "2020-04-24T01:38:37.000Z",
+            "event": false,
+            "feedElementType": "FeedItem",
+            "hasVerifiedComment": false,
+            "header": {
+                "isRichText": null,
+                "messageSegments": [{
+                        "motif": {
+                            "color": "83B6FF",
+                            "largeIconUrl": "/img/icon/groups64.png",
+                            "mediumIconUrl": "/img/icon/groups32.png",
+                            "smallIconUrl": "/img/icon/groups16.png",
+                            "svgIconUrl": null
+                        },
+                        "reference": {
+                            "id": "0F98A00000053jLSAQ",
+                            "url": "/services/data/v48.0/chatter/groups/0F98A00000053jLSAQ"
+                        },
+                        "text": "Test Chatter Group Private",
+                        "type": "EntityLink"
+                    },
+                    {
+                        "text": " (Private) — ",
+                        "type": "Text"
+                    },
+                    {
+                        "motif": {
+                            "color": "65CAE4",
+                            "largeIconUrl": "/img/icon/profile64.png",
+                            "mediumIconUrl": "/img/icon/profile32.png",
+                            "smallIconUrl": "/img/icon/profile16.png",
+                            "svgIconUrl": null
+                        },
+                        "reference": {
+                            "id": "0058A000004265DQAQ",
+                            "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ"
+                        },
+                        "text": "User User",
+                        "type": "EntityLink"
+                    }
+                ],
+                "text": "Test Chatter Group Private (Private) — User User"
+            },
+            "id": "0D58A00000NyM4tSAF",
+            "isDeleteRestricted": false,
+            "isSharable": false,
+            "modifiedDate": "2020-04-24T01:38:37.000Z",
+            "originalFeedItem": null,
+            "originalFeedItemActor": null,
+            "parent": {
+                "additionalLabel": "Private",
+                "announcement": null,
+                "bannerPhoto": {
+                    "bannerPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/0F9/B",
+                    "bannerPhotoVersionId": null,
+                    "url": "/services/data/v48.0/chatter/groups/0F98A00000053jLSAQ/banner-photo"
+                },
+                "canHaveChatterGuests": false,
+                "community": null,
+                "description": null,
+                "emailToChatterAddress": "0F98A00000053jLSAQ@post.8a-blc2uak.cs45.chatter.sandbox.salesforce.com",
+                "id": "0F98A00000053jLSAQ",
+                "isArchived": false,
+                "isAutoArchiveDisabled": false,
+                "isBroadcast": false,
+                "lastFeedElementPostDate": "2020-04-24T01:38:37.000Z",
+                "memberCount": 1,
+                "motif": {
+                    "color": "83B6FF",
+                    "largeIconUrl": "/img/icon/groups64.png",
+                    "mediumIconUrl": "/img/icon/groups32.png",
+                    "smallIconUrl": "/img/icon/groups16.png",
+                    "svgIconUrl": null
+                },
+                "myRole": "GroupOwner",
+                "mySubscription": {
+                    "id": "0FB8A000000KwGwWAK",
+                    "url": "/services/data/v48.0/chatter/group-memberships/0FB8A000000KwGwWAK"
+                },
+                "name": "Test Chatter Group Private",
+                "owner": {
+                    "additionalLabel": null,
+                    "communityNickname": "test-yuyowjqb6ypa",
+                    "companyName": "JA Streamboard Scratch Org",
+                    "displayName": "User User",
+                    "firstName": "User",
+                    "id": "0058A000004265DQAQ",
+                    "isActive": true,
+                    "isInThisCommunity": true,
+                    "lastName": "User",
+                    "motif": {
+                        "color": "65CAE4",
+                        "largeIconUrl": "/img/icon/profile64.png",
+                        "mediumIconUrl": "/img/icon/profile32.png",
+                        "smallIconUrl": "/img/icon/profile16.png",
+                        "svgIconUrl": null
+                    },
+                    "mySubscription": null,
+                    "name": "User User",
+                    "outOfOffice": {
+                        "message": ""
+                    },
+                    "photo": {
+                        "fullEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                        "largePhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/F",
+                        "mediumPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/M",
+                        "photoVersionId": null,
+                        "smallPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+                        "standardEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                        "url": "/services/data/v48.0/connect/user-profiles/0058A000004265DQAQ/photo"
+                    },
+                    "reputation": null,
+                    "title": null,
+                    "type": "User",
+                    "url": "/services/data/v48.0/chatter/users/0058A000004265DQAQ",
+                    "userType": "Internal"
+                },
+                "photo": {
+                    "fullEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_group_profile_200_v2.png?fromEmail=1",
+                    "largePhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/0F9/F",
+                    "mediumPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/0F9/M",
+                    "photoVersionId": null,
+                    "smallPhotoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/0F9/T",
+                    "standardEmailPhotoUrl": "https://ability-energy-8996-dev-ed.cs45.my.salesforce.com/img/userprofile/default_group_profile_45_v2.png?fromEmail=1",
+                    "url": "/services/data/v48.0/chatter/groups/0F98A00000053jLSAQ/photo"
+                },
+                "type": "CollaborationGroup",
+                "url": "/services/data/v48.0/chatter/groups/0F98A00000053jLSAQ",
+                "visibility": "PrivateAccess"
+            },
+            "photoUrl": "https://ability-energy-8996-dev-ed--c.documentforce.com/profilephoto/005/T",
+            "relativeCreatedDate": "3h ago",
+            "type": "TextPost",
+            "url": "/services/data/v48.0/chatter/feed-elements/0D58A00000NyM4tSAF",
+            "visibility": "AllUsers"
+        }
+    ],
+    "id": "0Fq8A00000001sESAQ",
+    "message": "Stream Feed Elements are loaded",
+    "name": "private",
+    "success": true,
+    "totalRecords": 0
+}
+]

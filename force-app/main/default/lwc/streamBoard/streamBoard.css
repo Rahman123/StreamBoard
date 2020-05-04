@@ -1,0 +1,30 @@
+.refresh-icon {
+    align-self: flex-end;
+    position: relative;
+}
+
+.card-height {
+    height: 80vh;
+    margin-top: 0px;
+}
+
+.ill-height {
+    height: 80vh;
+    background: white;
+}
+
+.svg-margin {
+    margin-top: 12%;
+}
+
+.header-sitcky {
+    position: sticky;
+    background: white;
+    z-index: 99;
+    top: 0;
+    height: 40px;
+    font-size: 1.17em;
+    font-weight: bold;
+    border-bottom: 1px solid #dddbda;
+    text-align: center;
+}

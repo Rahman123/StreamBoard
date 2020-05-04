@@ -1,0 +1,119 @@
+<template>
+    <article class="slds-post">
+        <header class="slds-post__header slds-media">
+            <div class="slds-media__figure">
+                <a href={feedElementActorHyperLink} class="slds-avatar slds-avatar_circle slds-avatar_large">
+                    <img alt={element.actor.name} src={element.actor.photo.fullEmailPhotoUrl} title={element.actor.name} />
+                </a>
+            </div>
+            <div class="slds-media__body">
+                <div class="slds-grid slds-grid_align-spread slds-has-flexi-truncate">
+                <p>
+                    <a href={feedElementParentHyperLink} title="Parent" >{element.parent.name}</a>
+                     — 
+                    <a href={feedElementActorHyperLink} title="Actor">{element.actor.name}</a>
+                </p>
+                </div>
+                    <p class="slds-text-body_small">
+                        <a href={feedElementHyperLink} title="Click for single-item view of this post" class="slds-text-link_reset">{element.relativeCreatedDate}</a>
+                    </p>
+                </div>
+        </header>
+        <div class="slds-post__content slds-text-longform"> 
+            <div class="message_segment" lwc:dom="manual"> </div>
+        </div>
+        <footer class="slds-post__footer">
+            <ul class="slds-post__footer-actions-list slds-list_horizontal">
+            <li class="slds-col slds-item slds-m-right_medium" >
+                <template if:false={isLikedByCurrentUser}>
+                    <button title="Like this item" class="slds-button_reset slds-post__footer-action" aria-pressed="false" onclick={handleLikeFeedElememt} data-id={element.id} key={element.id}>
+                        <lightning-icon icon-name="utility:like" alternative-text="Utility image" size="x-small" title="Image"></lightning-icon>
+                        Like
+                    </button>
+                </template>
+                <template if:true={isLikedByCurrentUser}>
+                    <button title="Like this item" class="slds-button_reset slds-post__footer-action" aria-pressed="false" onclick={handleLikeFeedElememt} data-id={element.id} key={element.id}>
+                        <lightning-icon icon-name="utility:like" alternative-text="Utility image" size="x-small" title="Image"></lightning-icon>
+                        Liked
+                    </button>
+                </template>
+            </li>
+            <a href={feedElementHyperLink} >
+                <li class="slds-col slds-item slds-m-right_medium" onclick={handleCommentFeedElement}>
+                    <button title="Comment on this item" class="slds-button_reset slds-post__footer-action" onclick={commentFeedElementHandler}>
+                        <lightning-icon icon-name="utility:share_post" alternative-text="Utility image" size="x-small" title="Image" ></lightning-icon>
+                        Comment
+                    </button>
+                </li>
+            </a>
+            <template if:true={element.isSharable}>
+                <a href={feedElementHyperLink} >
+                    <li class="slds-col slds-item slds-m-right_medium" onclick={handleShareFeedElement}>
+                        <button title="Share this item" class="slds-button_reset slds-post__footer-action">
+                            <lightning-icon icon-name="utility:share" alternative-text="Utility image" size="x-small" title="Image"></lightning-icon>
+                            Share
+                        </button>
+                    </li>
+                </a>
+            </template>
+            </ul>
+            <ul class="slds-post__footer-meta-list slds-list_horizontal slds-has-dividers_right slds-text-title">
+            <li class="slds-item">{element.capabilities.chatterLikes.page.total} Likes</li>
+                <li class="slds-item" if:true={feedElementHasComments}>{element.capabilities.comments.page.total} Comments</li>
+            <template if:true={feedElementHasViews}>
+                <li class="slds-item">{element.capabilities.readBy.page.total} Views</li>
+            </template>
+            </ul>
+        </footer>
+        <!-- Start of comment code -->
+        <!--<template if:true={feedElementHasComments}>-->
+        <template for:each={element.capabilities.comments.page.items} for:item="feedElementComment" for:index="index">
+            <li class="slds-feed__item" key={feedElementComment.id}>
+                <div class="slds-feed__item-comments">
+                    <!--<div class="slds-p-horizontal_medium slds-p-vertical_x-small slds-grid">
+                    <button class="slds-button_reset slds-text-link">More comments</button>
+                    <span class="slds-text-body_small slds-col_bump-left">{index} of {element.capabilities.comments.page.total}</span>
+                    </div>-->
+                    <ul>
+                        <li>
+                            <article class="slds-comment slds-media slds-hint-parent">
+                                <div class="slds-media__figure">
+                                    <a href={feedElementComment.user.id} class="slds-avatar slds-avatar_circle slds-avatar_medium">
+                                        <img alt={element.actor.name} src={feedElementComment.user.photo.fullEmailPhotoUrl} title={element.actor.name} />
+                                    </a>
+                                </div>
+                                <div class="slds-media__body">
+                                    <header class="slds-media slds-media_center">
+                                        <div class="slds-grid slds-grid_align-spread slds-has-flexi-truncate">
+                                            <p class="slds-truncate" title={element.actor.name}>
+                                              <a href={feedElementComment.user.id}>{element.actor.name}</a>
+                                            </p>
+                                            <button class="slds-button slds-button_icon slds-button_icon-border slds-button_icon-x-small" aria-haspopup="true" title="More Options">
+                                              <lightning-icon icon-name="utility:down" alternative-text="Utility image" size="x-small" title="Image"></lightning-icon>
+                                              <span class="slds-assistive-text">More Options</span>
+                                            </button>
+                                        </div>
+                                    </header>
+                                    <p class="slds-text-body_small">
+                                      <a href={feedElementHyperLink} title="Click for single-item view of this post" class="slds-text-link_reset">{feedElementComment.relativeCreatedDate}</a>
+                                    </p>
+                                    <div class="slds-comment__content slds-text-longform">
+                                        <div class={feedElementComment.id} lwc:dom="manual"> </div>
+                                    </div>
+                                    <footer>
+                                        <!--<ul class="slds-list_horizontal slds-has-dividers_right slds-text-body_small">
+                                            <li class="slds-item">
+                                                <button class="slds-button_reset slds-text-color_weak" title="Like this item" aria-pressed="false">Like</button>
+                                            </li>
+                                        </ul>-->
+                                    </footer>
+                                </div>
+                            </article>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+        </template>
+      <!--</template>-->
+    </article>
+</template>

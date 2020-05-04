@@ -1,0 +1,41 @@
+.slds-radio {   
+    margin-top: 15px;   
+}
+
+.vote_button_container {
+    margin-top: 15px;  
+}
+
+.poll_container {
+    border: 1px solid,rgb(221, 219, 218);
+    display: grid;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-top: 15px;
+}
+
+.attachment_container {
+    border: 1px solid,rgb(221, 219, 218);
+    width: 140px;
+}
+
+.downlaod_subbar {
+    height: 30px;
+    background: var(--lwc-colorBackground,rgb(243, 242, 242));
+    padding: var(--lwc-spacingXSmall,0.5rem);
+    white-space: nowrap;      
+    overflow: hidden;         
+    text-overflow: ellipsis; 
+}
+
+.zip_container {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 30%;
+}
+
+.slds-comment__content {
+    margin-top: 10px;
+}
