@@ -1,28 +1,31 @@
-# README.md
 # Welcome to Streamboard
 
-StreamBoard is a standalone lightning web component that allows Chatter users to stay better connected and informed through the ability to view and interact with multiple Chatter Streams in one easy-to-use interface. Streamboard can be used on a Desktop or Mobile experience. 
+StreamBoard is a standalone lightning web component that allows Chatter users to stay better connected and informed through the ability to view and interact with multiple Chatter Streams in one easy-to-use interface. StreamBoard can be used on a Desktop or Mobile experience. 
 
-# Installation
+## Installation
 
-After Installing the package:
+During Package Installation:
 
-* Assign the Streamboard User Permission Set to Profile / Users
+* Install for Admins Only
 
-# Documentation
+After installing the package:
 
-AppExchange Link
+* Assign StreamBoard User Permission Set to Profiles / Users
+* Make the StreamBoard app visible to specific Profiles via the App Manager.
 
-[Chatter Streams support doc](https://help.salesforce.com/articleView?id=collab_chatter_streams_create.htm&type=5)
+## Documentation
+
+* [AppExchange Link](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000FN7f7UAD)
+* [Chatter Streams Help & Traning Link](https://help.salesforce.com/articleView?id=collab_chatter_streams_create.htm&type=5)
+
 
 Copyright (c) 2020, salesforce.com, inc.
 
-
-# Support
+## Support
 
 In case of errors/bugs, please create a [GitHub issue](https://github.com/SalesforceLabs/StreamBoard/issues)
 
-# Contributors
+## Contributors
 
 * John Alexander
 * Alex Hoang
@@ -30,10 +33,12 @@ In case of errors/bugs, please create a [GitHub issue](https://github.com/Salesf
 * Joshua Lerma
 * Hank Scurry
 * Adam Stroupe
+* John McWilliams
 
-# License
+## License
 
- * Copyright (c) 2020, salesforce.com, inc.
- * All rights reserved.
- * SPDX-License-Identifier: BSD-3-Clause
- * For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
+* Copyright (c) 2020, salesforce.com, inc.
+* All rights reserved.
+* SPDX-License-Identifier: BSD-3-Clause
+* For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
+
