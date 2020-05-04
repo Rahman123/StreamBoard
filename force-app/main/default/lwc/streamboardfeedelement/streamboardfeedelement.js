@@ -107,16 +107,6 @@ export default class Streamboardfeedelement extends LightningElement {
                                                 }
                                             formattedHTMLMessage += '</a>'+
                                             '<div class="downlaod_subbar">'+
-                                                
-                                                // place holder for file type image and download icons
-                                                /*'<lightning-icon class="slds-icon-doctype-pdf slds-icon_container">'+
-                                                    '<lightning-primitive-icon lightning-primitiveicon_primitiveicon-host="">'+
-                                                        '<svg lightning-primitiveIcon_primitiveIcon="" focusable="false" data-key="pdf" aria-hidden="true" class="slds-icon slds-icon_x-small">'+
-                                                            '<use lightning-primitiveIcon_primitiveIcon="" xlink:href="/_slds/icons/doctype-sprite/svg/symbols.svg?cache=9.31.2-1#pdf"></use>'+
-                                                        '</svg>'+
-                                                    '</lightning-primitive-icon>'+
-                                                    '<span class="slds-assistive-text">Adobe PDF</span>'+
-                                                '</lightning-icon>'*/
                                                 '<span data-aura-rendered-by="164:758;a" class="uiOutputText" data-aura-class="uiOutputText">'+itemArray[i].title+'</span>'+
                                             '</div>'+
                                         '</div>';
@@ -237,6 +227,6 @@ export default class Streamboardfeedelement extends LightningElement {
             .catch(error => { 
                 // need to add some code here for a toast message of some kind
                 // console.log('Like Error: ' + error.message);}
-            );
+            });
     }
 }

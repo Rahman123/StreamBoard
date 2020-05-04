@@ -73,14 +73,9 @@
             </ul>
         </footer>
         <!-- Start of comment code -->
-        <!--<template if:true={feedElementHasComments}>-->
         <template for:each={element.capabilities.comments.page.items} for:item="feedElementComment" for:index="index">
             <li class="slds-feed__item" key={feedElementComment.id}>
                 <div class="slds-feed__item-comments">
-                    <!--<div class="slds-p-horizontal_medium slds-p-vertical_x-small slds-grid">
-                    <button class="slds-button_reset slds-text-link">More comments</button>
-                    <span class="slds-text-body_small slds-col_bump-left">{index} of {element.capabilities.comments.page.total}</span>
-                    </div>-->
                     <ul>
                         <li>
                             <article class="slds-comment slds-media slds-hint-parent">
@@ -108,11 +103,6 @@
                                         <div class={feedElementComment.id} lwc:dom="manual"> </div>
                                     </div>
                                     <footer>
-                                        <!--<ul class="slds-list_horizontal slds-has-dividers_right slds-text-body_small">
-                                            <li class="slds-item">
-                                                <button class="slds-button_reset slds-text-color_weak" title="Like this item" aria-pressed="false">Like</button>
-                                            </li>
-                                        </ul>-->
                                     </footer>
                                 </div>
                             </article>
@@ -121,6 +111,5 @@
                 </div>
             </li>
         </template>
-      <!--</template>-->
     </article>
 </template>
